@@ -1,0 +1,241 @@
+Item,Gender,Price
+White T-Shirt,Men,2.67
+White T-Shirt,Men,3.33
+White T-Shirt,Men,2.5
+White T-Shirt,Men,5.5
+White T-Shirt,Men,3.34
+White T-Shirt,Men,6.56
+White T-Shirt,Men,4.93
+White T-Shirt,Men,3.76
+White T-Shirt,Men,5.3
+White T-Shirt,Men,6
+White T-Shirt,Men,3.07
+White T-Shirt,Men,3.34
+White T-Shirt,Men,3.25
+White T-Shirt,Men,2.37
+White T-Shirt,Men,6
+White T-Shirt,Men,8.74
+White T-Shirt,Men,2.83
+White T-Shirt,Men,6.49
+White T-Shirt,Men,2.5
+White T-Shirt,Men,8.83
+White T-Shirt,Men,3.25
+White T-Shirt,Men,8.47
+White T-Shirt,Men,9.5
+White T-Shirt,Men,5
+White T-Shirt,Women,9.5
+White T-Shirt,Women,8
+White T-Shirt,Women,4.63
+White T-Shirt,Women,4.84
+White T-Shirt,Women,8.45
+White T-Shirt,Women,4.75
+White T-Shirt,Women,9.14
+White T-Shirt,Women,7
+White T-Shirt,Women,13.99
+White T-Shirt,Women,12.98
+White T-Shirt,Women,8.26
+White T-Shirt,Women,9.5
+White T-Shirt,Women,18.99
+White T-Shirt,Women,16.99
+White T-Shirt,Women,6.06
+White T-Shirt,Women,18.99
+White T-Shirt,Women,16.99
+White T-Shirt,Women,7.5
+White T-Shirt,Women,10.5
+White T-Shirt,Women,7
+White T-Shirt,Women,7
+White T-Shirt,Women,9.45
+White T-Shirt,Women,9.45
+White T-Shirt,Women,18.99
+Denim Jeans,Men,25.88
+Denim Jeans,Men,21.99
+Denim Jeans,Men,19.99
+Denim Jeans,Men,27.01
+Denim Jeans,Men,33.77
+Denim Jeans,Men,39.99
+Denim Jeans,Men,24.99
+Denim Jeans,Men,26.29
+Denim Jeans,Men,39.99
+Denim Jeans,Men,39.77
+Denim Jeans,Men,30.2
+Denim Jeans,Men,49.97
+Denim Jeans,Men,29.99
+Denim Jeans,Men,32.99
+Denim Jeans,Men,28.99
+Denim Jeans,Men,33.49
+Denim Jeans,Men,39.99
+Denim Jeans,Men,36.99
+Denim Jeans,Men,39.99
+Denim Jeans,Men,44.99
+Denim Jeans,Men,49.99
+Denim Jeans,Men,36
+Denim Jeans,Men,34.99
+Denim Jeans,Men,28.8
+Denim Jeans,Women,29.98
+Denim Jeans,Women,28.7
+Denim Jeans,Women,15.99
+Denim Jeans,Women,13.44
+Denim Jeans,Women,23.2
+Denim Jeans,Women,20.2
+Denim Jeans,Women,29.49
+Denim Jeans,Women,134.25
+Denim Jeans,Women,35.98
+Denim Jeans,Women,39.99
+Denim Jeans,Women,28.99
+Denim Jeans,Women,28.77
+Denim Jeans,Women,48.99
+Denim Jeans,Women,81.75
+Denim Jeans,Women,39.99
+Denim Jeans,Women,33.99
+Denim Jeans,Women,36.95
+Denim Jeans,Women,45.54
+Denim Jeans,Women,28.77
+Denim Jeans,Women,16.47
+Denim Jeans,Women,50.75
+Denim Jeans,Women,49.99
+Denim Jeans,Women,30.55
+Denim Jeans,Women,49.99
+Underwear,Men,4.79
+Underwear,Men,3.19
+Underwear,Men,3.74
+Underwear,Men,7.14
+Underwear,Men,7.5
+Underwear,Men,1.87
+Underwear,Men,4
+Underwear,Men,5.66
+Underwear,Men,5.35
+Underwear,Men,7.33
+Underwear,Men,5.398
+Underwear,Men,3.6
+Underwear,Men,3.2
+Underwear,Men,3.2
+Underwear,Men,14.17
+Underwear,Men,5.33
+Underwear,Men,3.04
+Underwear,Men,1.66
+Underwear,Men,3.25
+Underwear,Men,3.6
+Underwear,Men,3.39
+Underwear,Men,3.74
+Underwear,Men,7
+Underwear,Men,5.66
+Underwear,Women,1.66
+Underwear,Women,2.25
+Underwear,Women,1.58
+Underwear,Women,1.83
+Underwear,Women,3.67
+Underwear,Women,3.75
+Underwear,Women,1.45
+Underwear,Women,2.66
+Underwear,Women,2
+Underwear,Women,2.33
+Underwear,Women,1.74
+Underwear,Women,2.33
+Underwear,Women,2.75
+Underwear,Women,2.29
+Underwear,Women,4.6
+Underwear,Women,7.5
+Underwear,Women,1.83
+Underwear,Women,9.15
+Underwear,Women,7.5
+Underwear,Women,2.33
+Underwear,Women,1.33
+Underwear,Women,1.58
+Underwear,Women,8.87
+Underwear,Women,4.17
+Socks,Men,1.12
+Socks,Men,2.11
+Socks,Men,1.72
+Socks,Men,3.17
+Socks,Men,1.21
+Socks,Men,1.67
+Socks,Men,5.57
+Socks,Men,1.19
+Socks,Men,1.21
+Socks,Men,2.42
+Socks,Men,4
+Socks,Men,2.09
+Socks,Men,3.18
+Socks,Men,2.81
+Socks,Men,1.38
+Socks,Men,3.33
+Socks,Men,1.25
+Socks,Men,3.33
+Socks,Men,4.33
+Socks,Men,2
+Socks,Men,2.16
+Socks,Men,2
+Socks,Men,2.24
+Socks,Men,1.21
+Socks,Women,2.28
+Socks,Women,1.1
+Socks,Women,4.67
+Socks,Women,2.33
+Socks,Women,1.68
+Socks,Women,1.83
+Socks,Women,2.71
+Socks,Women,1.67
+Socks,Women,2.32
+Socks,Women,1.59
+Socks,Women,3
+Socks,Women,1.3
+Socks,Women,2.17
+Socks,Women,1.5
+Socks,Women,1.96
+Socks,Women,6.1
+Socks,Women,1.41
+Socks,Women,6.49
+Socks,Women,2.67
+Socks,Women,2.67
+Socks,Women,2.75
+Socks,Women,7
+Socks,Women,1.52
+Socks,Women,8.67
+Canvas Sneaker,Men,20.99
+Canvas Sneaker,Men,25
+Canvas Sneaker,Men,59.95
+Canvas Sneaker,Men,63.8
+Canvas Sneaker,Men,24
+Canvas Sneaker,Men,29.99
+Canvas Sneaker,Men,58.27
+Canvas Sneaker,Men,51.96
+Canvas Sneaker,Men,79.99
+Canvas Sneaker,Men,51.95
+Canvas Sneaker,Men,36.99
+Canvas Sneaker,Men,45.49
+Canvas Sneaker,Men,60
+Canvas Sneaker,Men,20.99
+Canvas Sneaker,Men,29.99
+Canvas Sneaker,Men,21.99
+Canvas Sneaker,Men,64.6
+Canvas Sneaker,Men,44.96
+Canvas Sneaker,Men,53.37
+Canvas Sneaker,Men,47.17
+Canvas Sneaker,Men,59.95
+Canvas Sneaker,Men,34.99
+Canvas Sneaker,Men,40.09
+Canvas Sneaker,Men,64
+Canvas Sneaker,Women,18.2
+Canvas Sneaker,Women,34.98
+Canvas Sneaker,Women,59.9
+Canvas Sneaker,Women,42.99
+Canvas Sneaker,Women,28.13
+Canvas Sneaker,Women,34.99
+Canvas Sneaker,Women,62.82
+Canvas Sneaker,Women,39
+Canvas Sneaker,Women,19.99
+Canvas Sneaker,Women,24.99
+Canvas Sneaker,Women,29.85
+Canvas Sneaker,Women,71.99
+Canvas Sneaker,Women,79.95
+Canvas Sneaker,Women,40
+Canvas Sneaker,Women,39.95
+Canvas Sneaker,Women,24.99
+Canvas Sneaker,Women,44.95
+Canvas Sneaker,Women,34.95
+Canvas Sneaker,Women,39.99
+Canvas Sneaker,Women,33.17
+Canvas Sneaker,Women,94.21
+Canvas Sneaker,Women,24.9
+Canvas Sneaker,Women,39.12
+Canvas Sneaker,Women,40.02
